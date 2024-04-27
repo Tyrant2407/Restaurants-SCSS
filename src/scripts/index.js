@@ -1,5 +1,5 @@
 import "regenerator-runtime"; 
-import "../styles/main.css";
+import "../styles/main.scss";
 import "./footer-bar.js";
 
 class RestaurantList extends HTMLElement {
